@@ -2,7 +2,7 @@
 Hostel Management System is developed for automating the activities of hostel
 
 
-## ABSTRACT
+## Abstract
 
 - Hostel management system is designed to provide hostel related services to students using cloud computing techniques. This system can provide features like booking of hostel rooms, checking roommates information, leave request and checking leave request status for students. The hostel administration is provided with a better control over the transactions like checking the details of the student, modifying the details of the students, approving or rejecting the leave of the student. The admin has various features he can look at the details of the students, Admin can add/delete hostel employees. Hostel employees can approve/reject leave of students and can view details of the students. Admin can monitor the hostel bookings which are going on. He even has the right to approve or reject the leave. Whenever the leave of a student is approved or rejected then the student can immediately see the status of his leave in his leave status section. Cloud computing became the most used and powerful invention in recent days. It has many advantages if we use and incorporate in our project. We can avail many benefits if we use cloud services instead of normal traditional techniques. The main benefits are computational load and high availability. Therefore, the entire Hostel Management System project was created with distributed client-server computing in mind. The main intention of this project is to deploy the website in cloud platform. This can improve the performance of the website and it can reach to more audience
 
